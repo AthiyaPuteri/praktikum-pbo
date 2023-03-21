@@ -1,5 +1,5 @@
 /*
- * File : Poligon.java 08/03/2023
+ * File : Poligon.java 21/03/2023
  * Penulis : Athiya Puteri Hidayat
  * Deskripsi : representasi dasar dari objek poligon (segi banyak)
 */
